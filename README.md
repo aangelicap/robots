@@ -13,7 +13,7 @@ Jest
 npm run build
 `
 
-### To run test
+### To run tests
 `
 npm run test
 `
