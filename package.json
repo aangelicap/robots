@@ -1,0 +1,24 @@
+{
+  "name": "robots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "ts-node application.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.2",
+    "@types/jest": "^27.0.3",
+    "ts-node": "^10.4.0"
+  },
+  "dependencies": {
+    "babel-jest": "^28.1.0",
+    "jest": "^28.1.0",
+    "ts-jest": "^28.0.4"
+  }
+}
